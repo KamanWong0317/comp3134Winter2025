@@ -1,0 +1,28 @@
+facebook.com:
+IP address	Type	Hosted by	Location
+157.240.22.35	IPv4	Hosted by Facebook, Inc. Facebook, Inc.	United States of America
+2a03:2880:f131:83:face:b00c:0:25de	IPv6	Hosted by Facebook, Inc. Facebook, Inc.	United States of America
+
+
+youtube.com:
+IP address	Type	Hosted by	Location
+142.250.191.46	IPv4	Hosted by Google LLC Google LLC	United States of America
+2607:f8b0:4005:812::200e	IPv6	Hosted by Google LLC Google LLC	United States of America
+
+
+fido.ca:
+IP address	Type	Hosted by	Location
+52.233.43.28	IPv4	Hosted by Microsoft Corporation Microsoft Corporation	Canada
+
+
+bestbuy.ca:
+IP address	Type	Hosted by	Location
+23.62.46.138	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+23.62.46.144	IPv4	Hosted by Akamai International B.V. Akamai International B.V.	United States of America
+
+
+bmo.com:
+IP address	Type	Hosted by	Location
+23.6.97.82	IPv4	Hosted by Akamai Technologies, Inc. Akamai Technologies, Inc.	United States of America
+
+

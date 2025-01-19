@@ -1,0 +1,12 @@
+C:\Users\wk020>ping 159.203.36.161
+
+Pinging 159.203.36.161 with 32 bytes of data:
+Reply from 159.203.36.161: bytes=32 time=19ms TTL=55
+Reply from 159.203.36.161: bytes=32 time=60ms TTL=55
+Reply from 159.203.36.161: bytes=32 time=17ms TTL=55
+Reply from 159.203.36.161: bytes=32 time=23ms TTL=55
+
+Ping statistics for 159.203.36.161:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 17ms, Maximum = 60ms, Average = 29ms

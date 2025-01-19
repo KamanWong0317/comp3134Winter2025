@@ -1,0 +1,16 @@
+C:\Users\wk020>tracert 159.203.36.161
+
+Tracing route to 159.203.36.161 over a maximum of 30 hops
+
+  1    11 ms     5 ms     2 ms  10.0.0.1
+  2    20 ms    14 ms    21 ms  pool-99-238-228-1.cpe.net.cable.rogers.com [99.238.228.1]
+  3    18 ms    18 ms    19 ms  69.63.242.53
+  4    25 ms    24 ms    19 ms  pos5-0.gw01.glph.phub.net.cable.rogers.com [69.63.248.109]
+  5    41 ms    62 ms    26 ms  209.148.235.214
+  6    15 ms    16 ms    16 ms  digitalocean-tor1-edge2.ip4.torontointernetxchange.net [206.108.35.15]
+  7    28 ms    22 ms   101 ms  143.244.224.46
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10    20 ms    17 ms    16 ms  159.203.36.161
+
+Trace complete.
