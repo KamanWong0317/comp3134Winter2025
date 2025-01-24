@@ -1,0 +1,15 @@
+PING microsoft.com (20.231.239.246) 56(84) bytes of data.
+64 bytes from 20.231.239.246 (20.231.239.246): icmp_seq=1 ttl=113 time=15.1 ms
+64 bytes from 20.231.239.246 (20.231.239.246): icmp_seq=2 ttl=113 time=14.3 ms
+64 bytes from 20.231.239.246 (20.231.239.246): icmp_seq=3 ttl=113 time=14.3 ms
+64 bytes from 20.231.239.246 (20.231.239.246): icmp_seq=4 ttl=113 time=14.3 ms
+64 bytes from 20.231.239.246 (20.231.239.246): icmp_seq=5 ttl=113 time=14.3 ms
+64 bytes from 20.231.239.246 (20.231.239.246): icmp_seq=6 ttl=113 time=14.3 ms
+64 bytes from 20.231.239.246 (20.231.239.246): icmp_seq=7 ttl=113 time=14.3 ms
+64 bytes from 20.231.239.246 (20.231.239.246): icmp_seq=8 ttl=113 time=14.3 ms
+64 bytes from 20.231.239.246 (20.231.239.246): icmp_seq=9 ttl=113 time=14.3 ms
+64 bytes from 20.231.239.246 (20.231.239.246): icmp_seq=10 ttl=113 time=14.3 ms
+
+--- microsoft.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 14.288/14.392/15.106/0.238 ms
