@@ -1,0 +1,10 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -n -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+05:56:30.281251 IP 159.203.36.161.22 > 198.211.111.194.36055: Flags [P.], seq 1209636519:1209636583, ack 768158741, win 501, options [nop,nop,TS val 3588821011 ecr 1477339898], length 64
+05:56:30.282057 IP 159.203.36.161.22 > 198.211.111.194.36055: Flags [P.], seq 64:192, ack 1, win 501, options [nop,nop,TS val 3588821011 ecr 1477339898], length 128
+05:56:30.282109 IP 159.203.36.161.22 > 198.211.111.194.36055: Flags [P.], seq 192:256, ack 1, win 501, options [nop,nop,TS val 3588821011 ecr 1477339898], length 64
+05:56:30.282146 IP 159.203.36.161.22 > 198.211.111.194.36055: Flags [P.], seq 256:336, ack 1, win 501, options [nop,nop,TS val 3588821011 ecr 1477339898], length 80
+05:56:30.282177 IP 159.203.36.161.22 > 198.211.111.194.36055: Flags [P.], seq 336:416, ack 1, win 501, options [nop,nop,TS val 3588821012 ecr 1477339898], length 80
+05:56:30.282208 IP 159.203.36.161.22 > 198.211.111.194.36055: Flags [P.], seq 416:496, ack 1, win 501, options [nop,nop,TS val 3588821012 ecr 1477339898], length 80
+05:56:30.282261 IP 159.203.36.161.22 > 198.211.111.194.36055: Flags [P.], seq 496:560, ack 1, win 501, options [nop,nop,TS val 3588821012 ecr 1477339898], length 64
