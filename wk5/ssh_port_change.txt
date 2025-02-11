@@ -1,0 +1,4 @@
+Step 6) root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# service ssh restart
+
+Step 7) wk020@stk-m16 MINGW64 ~
+$ ssh -p 2222 root@159.203.36.161
