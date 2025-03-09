@@ -1,0 +1,58 @@
+$ ssh root@159.203.36.161
+root@159.203.36.161's password:
+Permission denied, please try again.
+root@159.203.36.161's password:
+Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 5.15.0-131-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Sat Mar  8 22:24:14 UTC 2025
+
+  System load:  0.0                Users logged in:       1
+  Usage of /:   19.8% of 24.05GB   IPv4 address for eth0: 159.203.36.161
+  Memory usage: 60%                IPv4 address for eth0: 10.20.0.5
+  Swap usage:   0%                 IPv4 address for eth1: 10.118.0.2
+  Processes:    111
+
+Expanded Security Maintenance for Applications is not enabled.
+
+112 updates can be applied immediately.
+2 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+3 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+
+*** System restart required ***
+********************************************************************************
+
+Welcome to DigitalOcean's 1-Click LAMP Droplet.
+To keep this Droplet secure, the UFW firewall is enabled.
+All ports are BLOCKED except 22 (SSH), 80 (HTTP), and 443 (HTTPS).
+
+In a web browser, you can view:
+ * The LAMP 1-Click Quickstart guide: https://do.co/3gY97ha#start
+ * Your LAMP website: http://159.203.36.161
+
+On the server:
+ * The default web root is located at /var/www/html
+ * If you're using the embedded database, the MySQL root password
+   is saved in /root/.digitalocean_password. If you've opted in to
+   using a DBaaS instance with DigitalOcean, you will find your
+   credentials written to /root/.digitalocean_dbaas_credentials
+   and you will have access to a DATABASE_URL environment variable
+   holding your database connection string.
+ * Certbot is preinstalled. Run it to configure HTTPS. See
+   https://do.co/3gY97ha#enable-https for more detail.
+
+For help and more information, visit https://do.co/3gY97ha
+
+********************************************************************************
+To delete this message of the day: rm -rf /etc/update-motd.d/99-one-click
+Last login: Tue Feb 11 10:37:07 2025 from 99.238.228.215
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i any -w all_traffic_$(date +\%Y\%m\%d_\%H\%M).pcap
+tcpdump: data link type LINUX_SLL2
+tcpdump: listening on any, link-type LINUX_SLL2 (Linux cooked v2), snapshot length 262144 bytes
