@@ -1,0 +1,1 @@
+Converted all annotations to php annotations to prevent sensitive information from being exposed in the browser's page source where it is not visible to users browsing the page source. By making these changes, we can prevent the leakage of sensitive employee information while maintaining files for internal use.

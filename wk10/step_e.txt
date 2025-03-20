@@ -1,0 +1,3 @@
+To stop users can't accessing folders before html, I use basename() to sanitize the input and make sure the path stays within /var/www/html. This blocks directory traversal attempts such as ./ and prevents unauthorized access.
+
+Then, to avoid users accessing non-existent folders, file_exists() ensures the directory exists before processing. Combined with is_dir(), this makes sure that only valid directories are accessed, preventing errors and unauthorized file access.

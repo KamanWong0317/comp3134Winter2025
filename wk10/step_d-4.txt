@@ -1,0 +1,4 @@
+Higher level directories are listed on the browser (...) /... /...).
+It shows system directories such as backups, cache, logs, tmp, and www.
+
+The page exposes folders of the system directory, such as logs, tmp, backups, and www, which may contain sensitive system or application data.

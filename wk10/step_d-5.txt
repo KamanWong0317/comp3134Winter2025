@@ -1,0 +1,3 @@
+The browser shows a list of directories after a directory traversal using encoded characters.
+
+This page exposes the server's directory hierarchy, revealing that web page files are stored in the html directory.

@@ -1,0 +1,3 @@
+The browser displays a warning message that the directory ‘hello’ does not exist and the error message scandir($path) failed because the directory does not exist.
+
+This page provides a path to the full server file, showing that the use of scandir() causes an attacker to manipulate q to try to access the restricted directory.
