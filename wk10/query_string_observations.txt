@@ -1,0 +1,7 @@
+1) When a valid English word is entered into the form, the site will successfully load the definition page for that word, and a search term is appended to the URL.
+
+2) When entering a non-existent word, the URL still follows the format `/browse/word`, but the site returns a page stating that no results found for the word.
+
+3) Type `<script>alert(%27hello%27)</script>` into the form and the site will treat it as plain text and send back a page stating that the term was not found.
+
+4) Add `<script>alert(%27hello%27)</script>` after the URL `/browse/` The site shows that the page you are looking for cannot be found.
