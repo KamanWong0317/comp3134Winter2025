@@ -1,0 +1,1 @@
+The file 'storedxss.php' reads data from 'storedxss.txt' and renders it directly in the web page without filtering or escaping. In that case, the JavaScript code in the text will be executed directly in the user's browser.

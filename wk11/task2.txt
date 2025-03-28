@@ -1,0 +1,26 @@
+1. Amazon.ca - Create account
+a) https://www.amazon.ca/ap/register?_encoding=UTF8&openid.assoc_handle=caflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_newcust
+b) name="appActionToken" - value="S2XdrmtS5MfoWAaJxWmH7OY2lYgj3D"
+name="appAction" - value="REGISTER"
+name="openid.return_to" - value="ape:aHR0cHM6Ly93d3cuYW1hem9uLmNhL2dwL3lvdXJzdG9yZS9ob21lP2llPVVURjgmcmVmXz1uYXZfbmV3Y3VzdA=="
+name="prevRID" - value="ape:Q1dLTkM3TkROUjlWUTNBOFYyN1E="
+c) form method: "POST"
+
+2. Facebook.com - login
+a) https://www.facebook.com/login
+b) name="jazoest" - value="2892"
+name="lgndim" - value="eyJ3IjoxNzA3LCJoIjoxMDY3LCJhdyI6MTcwNywiYWgiOjEwMTksImMiOjI0fQ=="
+name="lgnrnd" - value="004315_MIhg"
+name="lgnjs" - value="1742456596"
+c) form method: "POST"
+
+3. Google - Search
+a)https://www.google.com/
+b) name="sca_esv" - value="10d4ab18e2870239"
+name="sxsrf" - value="AHTn8zqXUS3av9cagizaw4evb5E_45qh4Q:1742457282275"
+name="source" - value="hp">
+name="ei" - value="wsnbZ_rjDdSKptQP_53KmQs"
+c) form method: "GET"
+
+
+
