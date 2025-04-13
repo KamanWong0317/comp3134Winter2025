@@ -1,0 +1,5 @@
+Hello world!
+<script>document.body.style.backgroundColor = 'yellow';</script>
+Learning cybersecurity.
+<?php phpinfo(); ?>
+Almost there my friend!

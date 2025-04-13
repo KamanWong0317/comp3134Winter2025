@@ -1,0 +1,2 @@
+http://localhost/a4_reflected.php?name=<script>alert('Hacking')</script>
+

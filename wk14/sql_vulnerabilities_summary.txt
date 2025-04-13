@@ -1,0 +1,11 @@
+1) Ben
+- No data can be found. This is because Ben's active value in the table is 0, so no user matches
+- This is expected behavior.
+
+2) Ben'-- 
+- Find out the user whose first name is Ben. A single quote and two dashes cause `AND active = 1` to be annotated, and the filtering condition is bypassed.
+- Unqualified user information should not be successfully queried and displayed.
+
+3) Ben' or 1=1
+- The server returns 500 Internal Server Error, indicating that a syntax error occurred while running the PHP script.
+- Instead of returning a result, it causes a query failure and a system error.
